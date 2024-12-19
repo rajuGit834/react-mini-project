@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+input[type="number"] {
+  height: 30px;
+  width: 70px;
+  padding: 0px 5px 0px 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: inner-spin-button; /* Chrome, Safari */
+  opacity: 1;
+  display: block;
+}
+
+.img:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+  transition: 0.3s ease;
+}
+
+.circle {
+  height: 85px;
+  width: 85px;
+  background: gray;
+  border-radius: 50%;
+}
+
+td{
+  border:1px solid aqua;
+  background-color: #4A68A5;
+  height: 40px;
+}

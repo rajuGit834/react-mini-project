@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the purpose of state in React?",
+    "option1": "To store information that may change over time",
+    "option2": "To declare static values for components",
+    "option3": "To define global variables",
+    "option4": "None of the above",
+    "answer": "To store information that may change over time"
+  },
+  {
+    "id": 2,
+    "question": "What are hooks in React?",
+    "option1": "Functions that let you use state and other React features without writing a class",
+    "option2": "Functional components",
+    "option3": "Connections between components",
+    "option4": "None of the above",
+    "answer": "Functions that let you use state and other React features without writing a class"
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of key prop in React lists?",
+    "option1": "To uniquely identify a child component",
+    "option2": "To style elements within a list",
+    "option3": "To define the position of a component",
+    "option4": "None of the above",
+    "answer": "To uniquely identify a child component"
+  },
+  {
+    "id": 4,
+    "question": "What is the role of componentDidMount() in React?",
+    "option1": "It runs after the component output has been rendered to the DOM",
+    "option2": "It handles updates before rendering",
+    "option3": "It initializes state variables",
+    "option4": "None of the above",
+    "answer": "It runs after the component output has been rendered to the DOM"
+  },
+  {
+    "id": 5,
+    "question": "How can you pass data between components in React?",
+    "option1": "Using props",
+    "option2": "Directly modifying state",
+    "option3": "Using only functional components",
+    "option4": "None of the above",
+    "answer": "Using props"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of React.Fragment?",
+    "option1": "To create an independent component",
+    "option2": "To wrap multiple elements without adding an extra node to the DOM",
+    "option3": "To handle routing in React applications",
+    "option4": "None of the above",
+    "answer": "To wrap multiple elements without adding an extra node to the DOM"
+  },
+  {
+    "id": 7,
+    "question": "What is the significance of shouldComponentUpdate() in React?",
+    "option1": "It determines if a component should re-render",
+    "option2": "It defines the initial state of a component",
+    "option3": "It helps to update the DOM directly",
+    "option4": "None of the above",
+    "answer": "It determines if a component should re-render"
+  },
+  {
+    "id": 8,
+    "question": "What is the main purpose of Redux in React applications?",
+    "option1": "To manage the state of the entire application",
+    "option2": "To define the structure of components",
+    "option3": "To handle routing between components",
+    "option4": "None of the above",
+    "answer": "To manage the state of the entire application"
+  },
+  {
+    "id": 9,
+    "question": "How does React handle events?",
+    "option1": "Using event handlers like onClick",
+    "option2": "By modifying the DOM directly",
+    "option3": "Through asynchronous processes only",
+    "option4": "None of the above",
+    "answer": "Using event handlers like onClick"
+  },
+  {
+    "id": 10,
+    "question": "What are the benefits of using PropTypes in React?",
+    "option1": "To enforce the type of props passed to components",
+    "option2": "To declare global variables",
+    "option3": "To initialize state variables",
+    "option4": "None of the above",
+    "answer": "To enforce the type of props passed to components"
+  }
+]
